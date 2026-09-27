@@ -1,0 +1,5 @@
+We need TWO terminals:
+
+Terminal 1 — Backend: uvicorn main:app --reload
+
+Terminal 2 — Frontend: python -m http.server 5500
